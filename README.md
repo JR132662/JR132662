@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Full Stack Developer based out of Miami Beach, FL
+🟢Full Stack Developer based out of Miami Beach, FL
 -------------------------------------------------------
 
 
