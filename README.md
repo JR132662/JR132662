@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Full Stack Developer based out of Miami Beach, FL
+-------------------------------------------------------
+
+
 <!--
 **JR132662/JR132662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
